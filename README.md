@@ -14,3 +14,4 @@
 11. Regular Expressions
 12. Web Scrapping
 13. Excel and other documentation tools
+14. Speech Recognition
